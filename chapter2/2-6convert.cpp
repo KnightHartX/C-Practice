@@ -3,7 +3,7 @@
 using namespace std;
 float stonetopounds(float n)
 {
-    float pounds=n*15;
+    float pounds=n*14;
     return pounds;
 }
 int main()
@@ -12,6 +12,6 @@ int main()
     float stones;
     cin>>stones;
     float pounds=stonetopounds(stones);
-    cout<<stones<<" stones = "<<pounds<<"pounds"<<endl;
+    cout<<stones<<" stones = "<<pounds<<" pounds"<<endl;
     return 0;
 }
