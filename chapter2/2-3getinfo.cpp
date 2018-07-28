@@ -1,4 +1,4 @@
-//示例程序2-2,输出萝卜的数量！
+//示例程序2-3,添加了cin
 #include <iostream>
 int main()
 {
