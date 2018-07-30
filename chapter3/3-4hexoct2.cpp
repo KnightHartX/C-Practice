@@ -1,4 +1,4 @@
-//这个程序主要介绍了cout的一些特性：无论存进去的是几进制，输出的都是十进制。
+//程序3-5展示了如何使用cout输出不同进制的数值。
 #include <iostream>
 using namespace std;
 int main()
